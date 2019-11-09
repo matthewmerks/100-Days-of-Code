@@ -2,9 +2,9 @@
 
 ---
 
-### Day 1 - 2019 11 09
+## Day 1 - 2019 11 09
 
-#### [FreeCodeCamp](freecodecamp.org)
+#### [FreeCodeCamp](http://freecodecamp.org)
 
 **Array Manipulation**
 
@@ -13,6 +13,8 @@
 - `unshift()`
 
 **Comparison with Logical Operators**
+**If/Else**
+**Switch**
 
 #### Lighthouse Labs 21-day Coding Challenge
 
@@ -22,4 +24,4 @@
 
 ---
 
-### Day 2 - 2019 11 10
+## Day 2 - 2019 11 10
