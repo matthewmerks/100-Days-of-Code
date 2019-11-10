@@ -30,4 +30,14 @@
 
 ### Day 2 - 2019 11 10
 
+#### [FreeCodeCamp](http://freecodecamp.org)
+
 **For Loops**
+**Do/While Loops**
+**Ternary Operators**
+
+#### Lighthouse Labs 21-day Coding Challenge
+
+**Completed Day 10**
+
+- Nested for loops
