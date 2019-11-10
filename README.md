@@ -13,10 +13,13 @@
 - `unshift()`
 
 **Comparison with Logical Operators**
+
 **If/Else**
+
 **Switch**
 
 **Working with Objects**
+
 - Build an Object
 - Update/Create/Delete Key Pairs
 
@@ -33,7 +36,9 @@
 #### [FreeCodeCamp](http://freecodecamp.org)
 
 **For Loops**
+
 **Do/While Loops**
+
 **Ternary Operators**
 
 #### Lighthouse Labs 21-day Coding Challenge
