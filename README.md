@@ -2,7 +2,7 @@
 
 ---
 
-## Day 1 - 2019 11 09
+### Day 1 - 2019 11 09
 
 #### [FreeCodeCamp](http://freecodecamp.org)
 
@@ -16,6 +16,10 @@
 **If/Else**
 **Switch**
 
+**Working with Objects**
+- Build an Object
+- Update/Create/Delete Key Pairs
+
 #### Lighthouse Labs 21-day Coding Challenge
 
 **Completed Day 9**
@@ -24,4 +28,6 @@
 
 ---
 
-## Day 2 - 2019 11 10
+### Day 2 - 2019 11 10
+
+**For Loops**
