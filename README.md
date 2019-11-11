@@ -56,3 +56,7 @@
 #### [FreeCodeCamp](http://freecodecamp.org)
 
 #### Lighthouse Labs 21-day Coding Challenge
+
+**Completed Day 11**
+
+- Struggled through correctly using a for...in loop to do some basic retrieval of information from an Object
