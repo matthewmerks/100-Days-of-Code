@@ -49,6 +49,8 @@
 
 - Nested for loops
 
+---
+
 ### Day 3 - 2019 11 11
 
 #### [FreeCodeCamp](http://freecodecamp.org)
