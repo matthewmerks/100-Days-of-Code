@@ -41,8 +41,16 @@
 
 **Ternary Operators**
 
+**ES6 Beginnings**
+
 #### Lighthouse Labs 21-day Coding Challenge
 
 **Completed Day 10**
 
 - Nested for loops
+
+### Day 3 - 2019 11 11
+
+#### [FreeCodeCamp](http://freecodecamp.org)
+
+#### Lighthouse Labs 21-day Coding Challenge
