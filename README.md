@@ -55,6 +55,12 @@
 
 #### [FreeCodeCamp](http://freecodecamp.org)
 
+**Object Destructuring**
+
+**Basic Promises**
+
+**Basic Regular Expressions**
+
 #### Lighthouse Labs 21-day Coding Challenge
 
 **Completed Day 11**
