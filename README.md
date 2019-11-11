@@ -1,6 +1,6 @@
 # 100 Days of Code
 
----
+
 
 ### Day 1 - 2019 11 09
 
@@ -60,3 +60,16 @@
 **Completed Day 11**
 
 - Struggled through correctly using a for...in loop to do some basic retrieval of information from an Object
+
+[StackOverflow](https://stackoverflow.com/questions/921789/how-to-loop-through-a-plain-javascript-object-with-the-objects-as-members)
+`for (var key in validation_messages) {`
+`// skip loop if the property is from prototype`
+`if (!validation_messages.hasOwnProperty(key)) continue;`
+`var obj = validation_messages[key];`
+`for (var prop in obj) {`
+`// skip loop if the property is from prototype`
+`if (!obj.hasOwnProperty(prop)) continue;`
+`// your code`
+`alert(prop + " = " + obj[prop]);`
+`}`
+`}`
