@@ -68,3 +68,19 @@
 - Struggled through correctly using a for...in loop to do some basic retrieval of information from an Object
 
 [StackOverflow](https://stackoverflow.com/questions/921789/how-to-loop-through-a-plain-javascript-object-with-the-objects-as-members)
+
+#### Self-Project test-bookings
+
+- Set up bootstrap basics (container, script links)
+
+---
+
+### Day 4 - 2019 11 12
+
+#### [FreeCodeCamp](http://freecodecamp.org)
+
+#### Lighthouse Labs 21-day Coding Challenge
+
+**Completed Day 12**
+
+- For loop to determine air quality, comparing clean and dirty in an array against a threshold amount
