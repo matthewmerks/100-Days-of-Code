@@ -84,3 +84,4 @@
 **Completed Day 12**
 
 - For loop to determine air quality, comparing clean and dirty in an array against a threshold amount
+ 
