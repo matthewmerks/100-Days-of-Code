@@ -119,3 +119,7 @@
 #### Lighthouse Labs 21-day Coding Challenge
 
 **Completed Day 15**
+
+- Returned coordinates of end position on grid based on movement of parade (north, east, south, west)
+
+- It's time to throw a town festival. 🥳 With just a week of challenges remaining in the @lighthouse_labs 21-Day Coding Challenge, this town party will be one to remember! #21DCC http://bit.ly/21DCC-Day-15
