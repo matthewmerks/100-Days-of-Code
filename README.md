@@ -77,11 +77,45 @@
 
 ### Day 4 - 2019 11 12
 
-#### [FreeCodeCamp](http://freecodecamp.org)
-
 #### Lighthouse Labs 21-day Coding Challenge
 
 **Completed Day 12**
 
 - For loop to determine air quality, comparing clean and dirty in an array against a threshold amount
- 
+
+---
+
+### Day 5 - 2019 11 13
+
+#### [FreeCodeCamp](http://freecodecamp.org)
+
+**Bootstrap basics**
+
+- Using grid system
+- using btn-primary/info/danger elements
+
+#### Lighthouse Labs 21-day Coding Challenge
+
+**Completed Day 13**
+
+- for...in loops again setting specific properties.
+
+---
+
+### Day 6 - 🎁🎂🥳 2019 11 14 🎁🎂🥳
+
+#### Lighthouse Labs 21-day Coding Challenge
+
+**Completed Day 14**
+
+- Thanks to the function I implemented, I installed a dynamic pricing model for transit to make rides more affordable when commuters travel together. 🚌 #21DCC http://bit.ly/21DCC-Day-14
+
+---
+
+### Day 7 - 2019 11 15
+
+#### [FreeCodeCamp](http://freecodecamp.org)
+
+#### Lighthouse Labs 21-day Coding Challenge
+
+**Completed Day 15**
