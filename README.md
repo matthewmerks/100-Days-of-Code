@@ -108,6 +108,8 @@
 
 **Completed Day 14**
 
+- Basic algorithm based on number of passengers and distance travelled
+
 - Thanks to the function I implemented, I installed a dynamic pricing model for transit to make rides more affordable when commuters travel together. 🚌 #21DCC http://bit.ly/21DCC-Day-14
 
 ---
