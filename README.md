@@ -116,8 +116,6 @@
 
 ### Day 7 - 2019 11 15
 
-#### [FreeCodeCamp](http://freecodecamp.org)
-
 #### Lighthouse Labs 21-day Coding Challenge
 
 **Completed Day 15**
@@ -125,3 +123,15 @@
 - Returned coordinates of end position on grid based on movement of parade (north, east, south, west)
 
 - It's time to throw a town festival. 🥳 With just a week of challenges remaining in the @lighthouse_labs 21-Day Coding Challenge, this town party will be one to remember! #21DCC http://bit.ly/21DCC-Day-15
+
+---
+
+### Day 8 - 2019 11 16
+
+#### Lighthouse Labs 21-day Coding Challenge
+
+**Completed Day 16**
+
+- Found complimentary colours and returned in ascending order
+
+- No town festival is complete without some banners and flags. 🚩 I created my own designs for the #Codeville festival in the latest @lighthouse_labs 21-Day Coding Challenge and they're ready to fly in the wind! #21DCC http://bit.ly/21DCC-Day-16
