@@ -135,3 +135,29 @@
 - Found complimentary colours and returned in ascending order
 
 - No town festival is complete without some banners and flags. 🚩 I created my own designs for the #Codeville festival in the latest @lighthouse_labs 21-Day Coding Challenge and they're ready to fly in the wind! #21DCC http://bit.ly/21DCC-Day-16
+
+---
+
+### Day 9 - 2019 11 18
+
+#### Lighthouse Labs 21-day Coding Challenge
+
+**Worked on Day 17**
+
+- Was unable to complete, struggled through getting array of objects(specifically object key pairs) to evaluate against each other
+
+#### WhamGlam
+
+**Scraping of Rent The Runway**
+
+- Ran into problems with RtR being blocked in South Africa, had to deploy to Netlify and encountered multiple issues with CORS
+
+---
+
+### Day 10 - 2019 11 19
+
+#### WhamGlam
+
+**Scraping of Rent The Runway**
+
+- Unable to get past cors problem. Posted question on Coding Garden and hoping for answer with next live stream
