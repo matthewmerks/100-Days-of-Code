@@ -161,3 +161,39 @@
 **Scraping of Rent The Runway**
 
 - Unable to get past cors problem. Posted question on Coding Garden and hoping for answer with next live stream
+
+---
+
+### Day 12 - 2019 11 23
+
+#### 41 on Sloane
+
+**Start of Booking System**
+
+- Created Node.js server
+- Connected to local MongoDB
+- Created first basic Schema
+
+---
+
+### Day 13 - 2019 11 24
+
+#### 41 on Sloane
+
+**Booking System**
+
+- REST API functional
+- Connecting client side to API and fetching data to display on screen
+- Display table with title, desc and date
+- Start adding needed fields to have proper form
+
+---
+
+### Day 14 - 2019 11 25
+
+#### 41 on Sloane
+
+**Booking System**
+
+- Created base arrays for venues and companies (To be Mongo Documents at a later stage)
+- Successfully changed Mongo Model for Bookings to include all necessary information.
