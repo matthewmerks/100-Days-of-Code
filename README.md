@@ -197,3 +197,17 @@
 
 - Created base arrays for venues and companies (To be Mongo Documents at a later stage)
 - Successfully changed Mongo Model for Bookings to include all necessary information.
+
+---
+
+### Day 15 - 2019 11 27 +
+
+### Day 16 - 2019 11 28
+
+#### 41 on Sloane
+
+**Booking System**
+
+- Changed Booking Schema
+- Implemented getBookings which fetches all bookings from the api and shows all in a table
+- Struggled with working with Dates, destructured and then reverted to use substr to get relevant pieces into table
