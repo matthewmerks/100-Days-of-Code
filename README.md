@@ -211,3 +211,35 @@
 - Changed Booking Schema
 - Implemented getBookings which fetches all bookings from the api and shows all in a table
 - Struggled with working with Dates, destructured and then reverted to use substr to get relevant pieces into table
+
+---
+
+### Day 17 - 2019 11 29
+
+#### 41 on Sloane
+
+**Booking System**
+
+- More work done on API and getting bookings into db
+
+#### WhamGlam
+
+**Scraping RTR**
+
+- Working on using cors-anywhere
+- Testing request-promise
+
+---
+
+### Day 18 - 2019 12 01
+
+#### WhamGlam
+
+**Scraping RTR**
+
+- Continued testing with request-promise
+- Utilized network tab to find JSON properties rather than have to scrape directly from HTML
+  - https://www.renttherunway.com/products?filters%5Bzip_code%5D=10014&sort=recommended&_=1575287096558
+  - https://www.renttherunway.com/products/TNT113/available_subscription_skus
+
+  ---
