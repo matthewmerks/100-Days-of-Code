@@ -258,7 +258,7 @@
 
 #### Video Content
 
-**Vue JS 2 The Complete Guide**
+**Vue JS 2 The Complete Guide** - Udemy
 
 - Completed Chapter 1
 - Started Chapter 2 (009 - 016)
@@ -273,6 +273,6 @@
 - Academind [What Happened in 2019 - Academind Annual Review](https://www.youtube.com/watch?v=LsZuog0ap-E)
 - Academind [Web Development Trends 2020](https://www.youtube.com/watch?v=Pw8U9l8acPA)
 
-**Vue JS 2 The Complete Guide**
+**Vue JS 2 The Complete Guide** - Udemy
 
 - Carried on with Chapter 2 (018)
