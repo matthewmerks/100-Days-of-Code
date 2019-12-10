@@ -261,6 +261,7 @@
 **Vue JS 2 The Complete Guide**
 
 - Completed Chapter 1
+- Started Chapter 2 (009 - 016)
 
 ---
 
@@ -269,5 +270,9 @@
 #### Video Content
 
 - Completed Travery Web Development In 2020 - A Practical Guide
+- Academind [What Happened in 2019 - Academind Annual Review](https://www.youtube.com/watch?v=LsZuog0ap-E)
+- Academind [Web Development Trends 2020](https://www.youtube.com/watch?v=Pw8U9l8acPA)
 
 **Vue JS 2 The Complete Guide**
+
+- Carried on with Chapter 2 (018)
