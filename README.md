@@ -243,11 +243,31 @@
   - https://www.renttherunway.com/products?filters%5Bzip_code%5D=10014&sort=recommended&_=1575287096558
   - https://www.renttherunway.com/products/TNT113/available_subscription_skus
 
-  ***
+---
 
-  ### Day 19 - 2019 12 06
+### Day 19 - 2019 12 06
 
-  #### Video Content
+#### Video Content
 
-  - Traversy [Web Development In 2020 - A Practical Guide](https://www.youtube.com/watch?v=0pThnRneDjw)
-  - Traversy [Tailwind CSS Crash Course](https://www.youtube.com/watch?v=UBOj6rqRUME)
+- Traversy [Web Development In 2020 - A Practical Guide](https://www.youtube.com/watch?v=0pThnRneDjw)
+- Traversy [Tailwind CSS Crash Course](https://www.youtube.com/watch?v=UBOj6rqRUME)
+
+---
+
+### Day 20 - 2019 12 09
+
+#### Video Content
+
+**Vue JS 2 The Complete Guide**
+
+- Completed Chapter 1
+
+---
+
+### Day 21 - 2019 12 10
+
+#### Video Content
+
+- Completed Travery Web Development In 2020 - A Practical Guide
+
+**Vue JS 2 The Complete Guide**
