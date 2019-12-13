@@ -261,7 +261,7 @@
 **Vue JS 2 The Complete Guide** - Udemy
 
 - Completed Chapter 1
-- Started Chapter 2 (009 - 016)
+- Started Chapter 2 - DOM INTERACTION (009 - 016)
 
 ---
 
@@ -271,8 +271,22 @@
 
 - Completed Travery Web Development In 2020 - A Practical Guide
 - Academind [What Happened in 2019 - Academind Annual Review](https://www.youtube.com/watch?v=LsZuog0ap-E)
+
+**Vue JS 2 The Complete Guide** - Udemy
+
+- Carried on with Chapter 2 - DOM INTERACTION (018 - 024)
+
+---
+
+### Day 22 - 2019 12 12
+
+#### Video Content
+
+- Academind [Vue 3 & A First Look at the Composition API](https://youtu.be/V-xK3sbc7xI)
+- Academind [MEAN, MERN, MEVN - What they're all about](https://youtu.be/5XlYQRGgYrY)
 - Academind [Web Development Trends 2020](https://www.youtube.com/watch?v=Pw8U9l8acPA)
 
 **Vue JS 2 The Complete Guide** - Udemy
 
-- Carried on with Chapter 2 (018)
+- Completed Chapter 2 - DOM INTERACTION (025 - 033)
+- Started Chapter 3 - CONDITIONALS AND RENDERING LISTS (035 - 39)
