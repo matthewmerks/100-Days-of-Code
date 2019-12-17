@@ -260,7 +260,7 @@
 
 **Vue JS 2 The Complete Guide** - Udemy
 
-- Completed Chapter 1
+- Completed Chapter 1 - GETTING STARTED
 - Started Chapter 2 - DOM INTERACTION (009 - 016)
 
 ---
@@ -290,3 +290,12 @@
 
 - Completed Chapter 2 - DOM INTERACTION (025 - 033)
 - Started Chapter 3 - CONDITIONALS AND RENDERING LISTS (035 - 39)
+
+---
+
+### Day 23 - 2019 12 17
+
+#### Video Content
+
+- Traversy [HTML & CSS Mobile UI Layout | CVS Clone](https://www.youtube.com/watch?v=1_ljUv6cvVE)
+  - CSS Tricks [Sticky Footer, Five Ways](https://css-tricks.com/couple-takes-sticky-footer/)
